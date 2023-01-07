@@ -1,0 +1,29 @@
+header{
+    background-image: url('../images/banner/banner3.png');
+    height: 808px;
+    margin-top: 0px;
+}
+.banner-header{
+    text-align: right;
+    margin-left: 850px;
+    margin-right:150px ;
+/* margin-top: 260px; */
+padding-top: 260px;
+    font-weight: 700;
+    color: white;
+   
+}
+.banner-dis{
+    text-align: right;
+    margin-left: 850px;
+    margin-right:150px ;
+    font-weight: 600px;
+    color: white;
+}
+.first-btn{
+margin-left: 1380px;
+height: 64px;
+width: 160px;
+color: rgb(0, 5, 5);
+/* border: none; */
+}
