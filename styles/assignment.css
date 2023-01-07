@@ -4,6 +4,7 @@ header{
     margin-top: 0px;
 }
 .banner-header{
+    font-size: 65px;
     text-align: right;
     margin-left: 850px;
     margin-right:150px ;
@@ -19,6 +20,7 @@ padding-top: 260px;
     margin-right:150px ;
     font-weight: 600px;
     color: white;
+    
 }
 .first-btn{
 margin-left: 1380px;
@@ -36,9 +38,54 @@ color: rgb(0, 5, 5);
     
 }
 .failures-dis{
-    width: 416px;
+font-weight: 700;
 height: 362px;
 margin-left: 100px;
 margin-top: 380px;
 
 }
+.failures-header{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+/* Future plans */
+.about{
+    text-align: center;
+    font-size: 40px;
+    
+    font-weight: 700;
+    
+}
+/* plan of this year */
+.my-plan{
+    display: flex;
+    justify-content:space-around ;
+    width: 1141px;
+    margin-left: 240px;
+}
+/* trying to add gradient */
+.from-youtube{
+    background-image:linear-gradient(rgb(87, 182, 245), rgb(44, 152, 202)),url(../images/watch.png); 
+    background-repeat: no-repeat;
+    width: 1140px;
+    margin-left: 230px;
+    height: 300px;
+    margin-top: 100px;
+    
+ 
+}
+.body-header{
+    margin-left: 100px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    padding-top: 85px;
+}
+.second-btn{
+    width: 160px;
+    height: 64px;
+    margin-left: 100px;
+    color: aqua;
+    border: none;}
+    
