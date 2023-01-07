@@ -25,5 +25,20 @@ margin-left: 1380px;
 height: 64px;
 width: 160px;
 color: rgb(0, 5, 5);
-/* border: none; */
+ border-style:inherit;
+ background-color: darkorange;
+}
+/* reason of fail */
+.my-failures{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 80px;
+    
+}
+.failures-dis{
+    width: 416px;
+height: 362px;
+margin-left: 100px;
+margin-top: 380px;
+
 }
